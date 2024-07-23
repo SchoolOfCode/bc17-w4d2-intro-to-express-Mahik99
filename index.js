@@ -1,7 +1,7 @@
 // This is importing the express module in an express variable
 import express from "express";
 
-// This is creating a web application using Expressand stores this application in a variable named app. You use this variable to set up and run your web server.
+// This is creating a web application using Express and stores this application in a variable named app. You use this variable to set up and run your web server.
 const app = express();
 
 // Variable created to store port number which is what the server 'listens' to
